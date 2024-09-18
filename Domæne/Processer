@@ -1,0 +1,17 @@
+Tilføjes nye produkter af medlemmerne
+    Fremlæggelse (af produkt) 
+    -> Oprettes 
+    -> Markedsføring
+    
+Købes produkter af kunderne
+    Finder HaaV 
+    -> vælger produkt/service 
+    -> køber produkt/service 
+    -> faktura genereres 
+    -> faktura sendes til medlem
+
+Medlem Oprettes
+    Virksomheder finder HaaV
+    -> Godkendes af HaaV
+    -> Tilføjelse af nye produkter ^
+
