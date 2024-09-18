@@ -1,0 +1,12 @@
+#Forretningsentiteter
+
+
+- _Medlem_ - et medlem er en forretning eller selvstændig person som kan sælge vare eller services igennem HaaV's infrastruktur.
+- _Adresse_ - en adresse er indeholder data omkring placeringen af et _Medlem_.
+- _Katalog_ - en samling af vare og services.
+- _Produkt_ - betegnelse for en fysisk vare eller en service som kan leveres af et medlem.
+
+- _Kunder_ - En person som giver penge for et produkt
+- _Team_ - Et team er en samling af C# udvikler og en It-akitekt
+- _ProductOwner/Leader_ - En person som hedder Dorthe
+
